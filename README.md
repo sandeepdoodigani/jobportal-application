@@ -1,1 +1,1 @@
-# jobportal-application
+# job-portal-app
